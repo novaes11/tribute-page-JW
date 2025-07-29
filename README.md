@@ -3,7 +3,7 @@
 Este projeto é uma **página tributo** criada para homenagear o rapper **Juice WRLD**, destacando sua trajetória, frases marcantes, músicas de sucesso e impacto cultural.
 
 ## 🌐 Link do projeto
-[Acesse aqui a página tributo](https://novaes11.github.io/tribute-page-JW/inde.html)
+[Acesse aqui a página tributo](https://novaes11.github.io/tribute-page-JW/Tribute_project/index.html)
 
 ## 🛠️ Tecnologias utilizadas
 
