@@ -23,16 +23,17 @@ Este projeto é uma **página tributo** criada para homenagear o rapper **Juice 
 
 ## 📁 Estrutura do projeto
 
-/tribute-page
-│
-├── index.html
-├── style.css
+/tribute-page<br/>
+│<br/>
+├── index.html<br/>
+├── style.css<br/>
 └── README.md
 
 ## ✍️ Autor
 
-Feito com carinho por João Novaes (https://github.com/novaes11) 💜  
+Feito com carinho por João Novaes 💜  
 Em homenagem a **Juice WRLD (1998–2019)** – *Legends Never Die.*
+
 
 
 
