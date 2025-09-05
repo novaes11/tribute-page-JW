@@ -3,7 +3,7 @@
 Este projeto é uma **página tributo** criada para homenagear o rapper **Juice WRLD**, destacando sua trajetória, frases marcantes, músicas de sucesso e impacto cultural.
 
 ## 🌐 Link do projeto
-<a href="">
+<a href="https://novaes11.github.io/tribute-page-JW/">
   Acesse aqui a página tributo
 </a>
 
@@ -33,5 +33,6 @@ Este projeto é uma **página tributo** criada para homenagear o rapper **Juice 
 
 Feito com carinho por João Novaes (https://github.com/novaes11) 💜  
 Em homenagem a **Juice WRLD (1998–2019)** – *Legends Never Die.*
+
 
 
